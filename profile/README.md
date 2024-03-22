@@ -1,27 +1,27 @@
-# Contents
+# Repository overview
 
 OS setup checklists:
 
-- [weibeld-setup/checklist-macos](https://github.com/weibeld-setup/checklist-macos)
-- [weibeld-setup/checklist-linux](https://github.com/weibeld-setup/checklist-linux)
-- [weibeld-setup/checklist-windows](https://github.com/weibeld-setup/checklist-windows)
+- [checklist-macos](https://github.com/weibeld-setup/checklist-macos)
+- [checklist-linux](https://github.com/weibeld-setup/checklist-linux)
+- [checklist-windows](https://github.com/weibeld-setup/checklist-windows)
 
 Application settings:
 
-- [weibeld-setup/settings-iterm2](https://github.com/weibeld-setup/settings-iterm2)
-- [weibeld-setup/settings-vscode](https://github.com/weibeld-setup/settings-vscode)
-- [weibeld-setup/settings-android-studio](https://github.com/weibeld-setup/settings-android-studio)
-- [weibeld-setup/settings-windows-terminal](https://github.com/weibeld-setup/settings-windows-terminal)
+- [settings-iterm2](https://github.com/weibeld-setup/settings-iterm2)
+- [settings-vscode](https://github.com/weibeld-setup/settings-vscode)
+- [settings-android-studio](https://github.com/weibeld-setup/settings-android-studio)
+- [settings-windows-terminal](https://github.com/weibeld-setup/settings-windows-terminal)
 
 Installation data and instructions:
 
-- [weibeld-setup/install-fonts](https://github.com/weibeld-setup/install-fonts)
-- [weibeld-setup/install-eduroam](https://github.com/weibeld-setup/install-eduroam)
-- [weibeld-setup/install-keyboard-layout](https://github.com/weibeld-setup/install-keyboard-layout)
-- [weibeld-setup/install-autohotkey-remappings](https://github.com/weibeld-setup/install-autohotkey-remappings)
+- [install-fonts](https://github.com/weibeld-setup/install-fonts)
+- [install-eduroam](https://github.com/weibeld-setup/install-eduroam)
+- [install-keyboard-layout](https://github.com/weibeld-setup/install-keyboard-layout)
+- [install-autohotkey-remappings](https://github.com/weibeld-setup/install-autohotkey-remappings)
 
 Miscellaneous:
 
-- [weibeld-setup/dotfiles](https://github.com/weibeld-setup/dotfiles)
-- [weibeld-setup/brewfile](https://github.com/weibeld-setup/brewfile)
-- [weibeld-setup/sudoers](https://github.com/weibeld-setup/sudoers)
+- [dotfiles](https://github.com/weibeld-setup/dotfiles)
+- [brewfile](https://github.com/weibeld-setup/brewfile)
+- [sudoers](https://github.com/weibeld-setup/sudoers)
