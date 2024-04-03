@@ -1,5 +1,10 @@
 # Badges
 
+![macOS](macos.svg)
+![Linux](linux.svg)
+![Windows](windows.svg)
+![Android](android.svg)
+
 Pre-generated badges from [Shields.io](https://shields.io/) to be included in READMEs of other repositories.
 
 ## Snippets
@@ -38,7 +43,7 @@ Use the following snippets to include the badges in READMEs.
 ![Android](https://raw.githubusercontent.com/weibeld-setup/.github/main/badge/android.svg)
 ```
 
-## Shields.io API URLs
+## Shields.io URLs
 
 The badges have been generated with the following [Shields.io](https://shields.io/) URLs.
 
