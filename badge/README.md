@@ -1,17 +1,17 @@
 # Badges
 
-Static badges generated from [Shields.io](https://shields.io/).
+Pre-generated badges from [Shields.io](https://shields.io/) to be included in READMEs of other repositories.
 
-## URLs
+## Snippets
 
-Use the following URLs to include the pre-generated badges as images in READMEs.
+Use the following snippets to include the badges in READMEs.
 
 ### macOS
 
 ![macOS](macos.svg)
 
 ```
-https://raw.githubusercontent.com/weibeld-setup/.github/main/badge/macos.svg
+![macOS](https://raw.githubusercontent.com/weibeld-setup/.github/main/badge/macos.svg)
 ```
 
 ### Linux
@@ -19,7 +19,7 @@ https://raw.githubusercontent.com/weibeld-setup/.github/main/badge/macos.svg
 ![Linux](linux.svg)
 
 ```
-https://raw.githubusercontent.com/weibeld-setup/.github/main/badge/linux.svg
+![Linux](https://raw.githubusercontent.com/weibeld-setup/.github/main/badge/linux.svg)
 ```
 
 ### Windows
@@ -27,7 +27,7 @@ https://raw.githubusercontent.com/weibeld-setup/.github/main/badge/linux.svg
 ![Windows](windows.svg)
 
 ```
-https://raw.githubusercontent.com/weibeld-setup/.github/main/badge/windows.svg
+![Windows](https://raw.githubusercontent.com/weibeld-setup/.github/main/badge/windows.svg)
 ```
 
 ### Android
@@ -35,12 +35,12 @@ https://raw.githubusercontent.com/weibeld-setup/.github/main/badge/windows.svg
 ![Android](android.svg)
 
 ```
-https://raw.githubusercontent.com/weibeld-setup/.github/main/badge/android.svg
+![Android](https://raw.githubusercontent.com/weibeld-setup/.github/main/badge/android.svg)
 ```
 
 ## Shields.io API URLs
 
-Below are the [Shields.io](https://shields.io/) API URLs with which the badges have been generated.
+The badges have been generated with the following [Shields.io](https://shields.io/) URLs.
 
 ### macOS
 
