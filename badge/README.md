@@ -9,7 +9,7 @@ Pre-generated badges from [Shields.io](https://shields.io/) to be included in RE
 
 ## Snippets
 
-Use the following snippets to include the badges in READMEs.
+Use the following snippets to include the badges in READMEs of other repositories.
 
 ### macOS
 
