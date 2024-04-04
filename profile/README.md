@@ -28,7 +28,7 @@ Resources to be installed on a new operating system instance.
 - [install-keyboard-layout](https://github.com/weibeld-setup/install-keyboard-layout)
 - [install-brewfile](https://github.com/weibeld-setup/install-brewfile)
 - [install-fonts](https://github.com/weibeld-setup/install-fonts)
-- [install-eduroam](https://github.com/weibeld-setup/install-eduroam)
+- [install-eduroam](https://github.com/weibeld-setup/install-eduroam) _(private)_
 - [install-autohotkey-remappings](https://github.com/weibeld-setup/install-autohotkey-remappings)
 
 ## Management repositories
