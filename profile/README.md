@@ -2,7 +2,7 @@
 
 ## OS setup
 
-Checklists and guides for setting up operating systems.
+Checklists and guides for setting up new operating systems instances.
 
 - [os-macos](https://github.com/weibeld-setup/os-macos)
 - [os-linux](https://github.com/weibeld-setup/os-linux)
@@ -31,8 +31,10 @@ Resources to be installed on a new operating system instance.
 - [install-eduroam](https://github.com/weibeld-setup/install-eduroam)
 - [install-autohotkey-remappings](https://github.com/weibeld-setup/install-autohotkey-remappings)
 
-## Organistation repository
+## Management repositories
 
-Repository with centralised resources for the entire organisation.
+Repositories with centralised resources for the entire organisation.
 
 - [.github](https://github.com/weibeld-setup/.github)
+- [.template-install](https://github.com/weibeld-setup/.template-install)
+- [.template-settings](https://github.com/weibeld-setup/.template-settings)
