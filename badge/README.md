@@ -4,6 +4,7 @@
 ![Linux](linux.svg)
 ![Windows](windows.svg)
 ![Android](android.svg)
+![Separate GitHub Repository](github-repo.svg)
 
 Pre-generated badges from [Shields.io](https://shields.io/) to be included in READMEs of other repositories.
 
@@ -43,6 +44,14 @@ Use the following snippets to include the badges in READMEs of other repositorie
 ![Android](https://raw.githubusercontent.com/weibeld-setup/.github/main/badge/android.svg)
 ```
 
+### Separate GitHub Repository
+
+![Separate GitHub Repository](github-repo.svg)
+
+```
+![Separate GitHub Repository](https://raw.githubusercontent.com/weibeld-setup/.github/main/badge/github-repo.svg)
+```
+
 ## Shields.io URLs
 
 The badges have been generated with the following [Shields.io](https://shields.io/) URLs.
@@ -64,3 +73,7 @@ The badges have been generated with the following [Shields.io](https://shields.i
 ### Android
 
 <https://img.shields.io/badge/Android-lightgreen?labelColor=green&&logoColor=white&logo=android>
+
+### Separate GitHub Repository
+
+<https://img.shields.io/badge/separate_repo-purple?labelColor=purple&logoColor=white&logo=github>
