@@ -4,7 +4,8 @@
 ![Linux](linux.svg)
 ![Windows](windows.svg)
 ![Android](android.svg)
-![Separate GitHub Repository](github-repo.svg)
+![GitHub Repo: Install](github-repo-install.svg)
+![GitHub Repo: Settings](github-repo-settings.svg)
 
 Pre-generated badges from [Shields.io](https://shields.io/) to be included in READMEs of other repositories.
 
@@ -44,12 +45,20 @@ Use the following snippets to include the badges in READMEs of other repositorie
 ![Android](https://raw.githubusercontent.com/weibeld-setup/.github/main/badge/android.svg)
 ```
 
-### Separate GitHub Repository
+### GitHub Repo: Install
 
-![Separate GitHub Repository](github-repo.svg)
+![GitHub Repo: Install](github-repo-install.svg)
 
 ```
-![Separate GitHub Repository](https://raw.githubusercontent.com/weibeld-setup/.github/main/badge/github-repo.svg)
+![GitHub Repo: Install](https://raw.githubusercontent.com/weibeld-setup/.github/main/badge/github-repo-install.svg)
+```
+
+### GitHub Repo: Settings
+
+![GitHub Repo: Settings](github-repo-settings.svg)
+
+```
+![GitHub Repo: Settings](https://raw.githubusercontent.com/weibeld-setup/.github/main/badge/github-repo-settings.svg)
 ```
 
 ## Shields.io URLs
@@ -74,6 +83,10 @@ The badges have been generated with the following [Shields.io](https://shields.i
 
 <https://img.shields.io/badge/Android-lightgreen?labelColor=green&&logoColor=white&logo=android>
 
-### Separate GitHub Repository
+### GitHub Repo: Install
 
-<https://img.shields.io/badge/separate_repo-black?labelColor=black&logoColor=white&logo=github>
+<https://img.shields.io/badge/repo-install-green?labelColor=black&logo=github&logoColor=white>
+
+### GitHub Repo: Settings
+
+<https://img.shields.io/badge/repo-settings-blue?labelColor=black&logo=github&logoColor=white>
