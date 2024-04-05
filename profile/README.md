@@ -4,9 +4,9 @@
 
 Checklists and guides for setting up new operating systems instances.
 
-- [os-macos](https://github.com/weibeld-setup/os-macos)
-- [os-linux](https://github.com/weibeld-setup/os-linux)
-- [os-windows](https://github.com/weibeld-setup/os-windows)
+- [checklist-macos-setup](https://github.com/weibeld-setup/checklist-macos-setup)
+- [checklist-linux-setup](https://github.com/weibeld-setup/checklist-linux-setup)
+- [checklist-windows-setup](https://github.com/weibeld-setup/checklist-windows-setup)
 
 > These are the top-level repositories, and many items in these repositories reference the repositories below.
 
@@ -36,5 +36,6 @@ Resources to be installed on a new operating system instance.
 Repositories with centralised resources for the entire organisation.
 
 - [.github](https://github.com/weibeld-setup/.github)
-- [.template-install](https://github.com/weibeld-setup/.template-install)
-- [.template-settings](https://github.com/weibeld-setup/.template-settings)
+- [template-install](https://github.com/weibeld-setup/template-install)
+- [template-settings](https://github.com/weibeld-setup/template-settings)
+- [template-checklist](https://github.com/weibeld-setup/template-checklist)
