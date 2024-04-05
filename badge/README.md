@@ -76,4 +76,4 @@ The badges have been generated with the following [Shields.io](https://shields.i
 
 ### Separate GitHub Repository
 
-<https://img.shields.io/badge/separate_repo-purple?labelColor=purple&logoColor=white&logo=github>
+<https://img.shields.io/badge/separate_repo-black?labelColor=black&logoColor=white&logo=github>
