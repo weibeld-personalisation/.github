@@ -4,9 +4,9 @@
 
 Checklists and guides for setting up new operating systems instances.
 
-- [checklist-macos-setup](https://github.com/weibeld-setup/checklist-macos-setup)
-- [checklist-linux-setup](https://github.com/weibeld-setup/checklist-linux-setup)
-- [checklist-windows-setup](https://github.com/weibeld-setup/checklist-windows-setup)
+- [checklist-macos](https://github.com/weibeld-setup/checklist-macos)
+- [checklist-linux](https://github.com/weibeld-setup/checklist-linux)
+- [checklist-windows](https://github.com/weibeld-setup/checklist-windows)
 
 > These are the top-level repositories, and many items in these repositories reference the repositories below.
 
