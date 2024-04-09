@@ -85,8 +85,8 @@ The badges have been generated with the following [Shields.io](https://shields.i
 
 ### GitHub Repo: Install
 
-<https://img.shields.io/badge/repo-install-green?labelColor=black&logo=github&logoColor=white>
+<https://img.shields.io/badge/separate_repo-install-blue?labelColor=black&logo=github&logoColor=white>
 
 ### GitHub Repo: Settings
 
-<https://img.shields.io/badge/repo-settings-blue?labelColor=black&logo=github&logoColor=white>
+<https://img.shields.io/badge/separate_repo-settings-purple?labelColor=black&logo=github&logoColor=white>
