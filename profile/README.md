@@ -1,13 +1,8 @@
 # Repository overview
 
-![macOS][macos]
-![Linux][linux]
-![Windows][windows]
-![Android][android]
-
 ## Setup
 
-Repositories with checklists for setting up things, such as operating systems.
+Repositories with checklists for setting up things, such as operating systems:
 
 1. [setup-macos](https://github.com/weibeld-setup/setup-macos) ![macOS][macos]
 1. [setup-linux](https://github.com/weibeld-setup/setup-linux) ![Linux][linux]
@@ -17,7 +12,7 @@ Repositories with checklists for setting up things, such as operating systems.
 
 ## Settings
 
-Repositories containing exported settings that can be imported into specific applications.
+Repositories containing exported settings that can be imported into specific applications:
 
 1. [settings-iterm2](https://github.com/weibeld-setup/settings-iterm2) ![macOS][macos]
 1. [settings-vscode](https://github.com/weibeld-setup/settings-vscode) ![macOS][macos]
@@ -26,7 +21,7 @@ Repositories containing exported settings that can be imported into specific app
 
 ## Installations
 
-Repositories containing instructions for installing specific resources.
+Repositories containing instructions for installing specific resources:
 
 1. [install-dotfiles](https://github.com/weibeld-setup/install-dotfiles) ![macOS][macos] ![Linux][linux]
 1. [install-sudoers](https://github.com/weibeld-setup/install-sudoers) ![Linux][linux]
@@ -38,7 +33,7 @@ Repositories containing instructions for installing specific resources.
 
 ## Management repositories
 
-Repositories containing centralised resources for the entire organisation.
+Repositories containing centralised resources for the entire organisation:
 
 1. [template-setup](https://github.com/weibeld-setup/template-setup)
 1. [template-settings](https://github.com/weibeld-setup/template-settings)
