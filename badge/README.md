@@ -1,11 +1,11 @@
 # Badges
 
-![macOS](macos.svg)
-![Linux](linux.svg)
-![Windows](windows.svg)
-![Android](android.svg)
-![GitHub Repo: Install](github-repo-install.svg)
-![GitHub Repo: Settings](github-repo-settings.svg)
+![macOS](https://raw.githubusercontent.com/weibeld-setup/.github/main/badge/macos.svg)
+![Linux](https://raw.githubusercontent.com/weibeld-setup/.github/main/badge/linux.svg)
+![Windows](https://raw.githubusercontent.com/weibeld-setup/.github/main/badge/windows.svg)
+![Android](https://raw.githubusercontent.com/weibeld-setup/.github/main/badge/android.svg)
+![GitHub Repo: Install](https://raw.githubusercontent.com/weibeld-setup/.github/main/badge/github-repo-install.svg)
+![GitHub Repo: Settings](https://raw.githubusercontent.com/weibeld-setup/.github/main/badge/github-repo-settings.svg)
 
 Pre-generated badges from [Shields.io](https://shields.io/) to be included in READMEs of other repositories.
 
