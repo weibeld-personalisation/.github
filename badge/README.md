@@ -77,7 +77,7 @@ The badges have been generated with the following [Shields.io](https://shields.i
 
 ### Windows
 
-<https://img.shields.io/badge/Windows-lightgray?labelColor=black&&logoColor=white&logo=windows>
+<https://img.shields.io/badge/Windows-lightgray?labelColor=gray&&logoColor=white&logo=windows>
 
 ### Android
 
