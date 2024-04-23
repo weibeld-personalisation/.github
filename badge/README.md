@@ -89,4 +89,4 @@ The badges have been generated with the following [Shields.io](https://shields.i
 
 ### GitHub Repo: Settings
 
-<https://img.shields.io/badge/separate_repo-settings-brown?labelColor=black&logo=github&logoColor=white>
+<https://img.shields.io/badge/separate_repo-settings-red?labelColor=black&logo=github&logoColor=white>
