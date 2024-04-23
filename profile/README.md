@@ -10,32 +10,32 @@ Repositories with checklists for setting up things, such as operating systems.
 
 > **Note:** these are the top-level repositories that often reference the other types of repositories.
 
-## Application settings
+## Settings
 
-Settings that can be imported into various applications.
+Repositories containing exported settings that can be imported into specific applications.
 
-- [settings-iterm2](https://github.com/weibeld-setup/settings-iterm2)
-- [settings-vscode](https://github.com/weibeld-setup/settings-vscode)
-- [settings-android-studio](https://github.com/weibeld-setup/settings-android-studio)
-- [settings-windows-terminal](https://github.com/weibeld-setup/settings-windows-terminal)
+1. [settings-iterm2](https://github.com/weibeld-setup/settings-iterm2)
+1. [settings-vscode](https://github.com/weibeld-setup/settings-vscode)
+1. [settings-android-studio](https://github.com/weibeld-setup/settings-android-studio)
+1. [settings-windows-terminal](https://github.com/weibeld-setup/settings-windows-terminal)
 
 ## Installations
 
-Resources to be installed on a new operating system instance.
+Repositories containing instructions for installing specific resources.
 
-- [install-dotfiles](https://github.com/weibeld-setup/install-dotfiles)
-- [install-sudoers](https://github.com/weibeld-setup/install-sudoers)
-- [install-keyboard-layout](https://github.com/weibeld-setup/install-keyboard-layout)
-- [install-brewfile](https://github.com/weibeld-setup/install-brewfile)
-- [install-fonts](https://github.com/weibeld-setup/install-fonts)
-- [install-eduroam](https://github.com/weibeld-setup/install-eduroam) _(private)_
-- [install-autohotkey-remappings](https://github.com/weibeld-setup/install-autohotkey-remappings)
+1. [install-dotfiles](https://github.com/weibeld-setup/install-dotfiles)
+1. [install-sudoers](https://github.com/weibeld-setup/install-sudoers)
+1. [install-keyboard-layout](https://github.com/weibeld-setup/install-keyboard-layout)
+1. [install-brewfile](https://github.com/weibeld-setup/install-brewfile)
+1. [install-fonts](https://github.com/weibeld-setup/install-fonts)
+1. [install-eduroam](https://github.com/weibeld-setup/install-eduroam) _(private)_
+1. [install-autohotkey-remappings](https://github.com/weibeld-setup/install-autohotkey-remappings)
 
 ## Management repositories
 
-Repositories with centralised resources for the entire organisation.
+Repositories containing centralised resources for the entire organisation.
 
-- [.github](https://github.com/weibeld-setup/.github)
-- [template-install](https://github.com/weibeld-setup/template-install)
-- [template-settings](https://github.com/weibeld-setup/template-settings)
-- [template-setup](https://github.com/weibeld-setup/template-setup)
+1. [template-setup](https://github.com/weibeld-setup/template-setup)
+1. [template-settings](https://github.com/weibeld-setup/template-settings)
+1. [template-install](https://github.com/weibeld-setup/template-install)
+1. [.github](https://github.com/weibeld-setup/.github)
