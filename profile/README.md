@@ -1,14 +1,14 @@
 # Repository overview
 
-## OS setup
+## Setup
 
-Checklists and guides for setting up new operating systems instances.
+Repositories with checklists for setting up things, such as operating systems.
 
-- [checklist-macos](https://github.com/weibeld-setup/checklist-macos)
-- [checklist-linux](https://github.com/weibeld-setup/checklist-linux)
-- [checklist-windows](https://github.com/weibeld-setup/checklist-windows)
+1. [setup-macos](https://github.com/weibeld-setup/setup-macos)
+1. [setup-linux](https://github.com/weibeld-setup/setup-linux)
+1. [setup-windows](https://github.com/weibeld-setup/setup-windows)
 
-> These are the top-level repositories, and many items in these repositories reference the repositories below.
+> **Note:** these are the top-level repositories that often reference the other types of repositories.
 
 ## Application settings
 
@@ -38,4 +38,4 @@ Repositories with centralised resources for the entire organisation.
 - [.github](https://github.com/weibeld-setup/.github)
 - [template-install](https://github.com/weibeld-setup/template-install)
 - [template-settings](https://github.com/weibeld-setup/template-settings)
-- [template-checklist](https://github.com/weibeld-setup/template-checklist)
+- [template-setup](https://github.com/weibeld-setup/template-setup)
